@@ -1,6 +1,6 @@
 # Weighted Axelrod model
 
-Master thesis, Applied Computer Science @ Jagiellonian University.
+Master's thesis, Applied Computer Science @ Jagiellonian University.
 
 The Axelrod model is a  well known model of culture development and dissemination describing a possible mechanism for emergence of cultural domains. It is based on two sociological phenomena: homophily and the theory of social influence. Technically, it assumes that every culture is represented by a vector of F cultural traits (features), each taking any of q allowed opinions (values). The model assumes that an individual can interact with local neighbors if and only if they share some common traits.  
 
